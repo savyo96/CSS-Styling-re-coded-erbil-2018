@@ -8,7 +8,7 @@
 
 ## Introduction
 
-In this code along exercise we will be adding style to our pages by linking an external CSS file. If you open this lab on the in-browser Learn IDE, all the files you need for following along will be available, and will automatically clone down. However, if you were following along using a personal `exceptional-realty` repository in the previous HTML lessons, you can continue from where we left
+In this code along exercise we will  linking an external CSS file. If you open this lab on the in-browser Learn IDE, all the files you need for following along will be available, and will automatically clone down. However, if you were following along using a personal `exceptional-realty` repository in the previous HTML lessons, you can continue from where we left
 off by running the following in your terminal:
 
 ```
